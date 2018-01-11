@@ -1,0 +1,26 @@
+{
+    "name": "mattermost-webapp-nextjs",
+    "version": "0.0.1",
+    "description": "Rewrite the Webapp of Mattermost by Next.js",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/danafood/mattermost-webapp-nextjs.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/danafood/mattermost-webapp-nextjs/issues"
+    },
+    "homepage": "https://github.com/danafood/mattermost-webapp-nextjs#readme",
+    "dependencies": {
+        "next": "^4.2.2",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0"
+    }
+}
